@@ -1,0 +1,58 @@
+modules/sbt-plugin/src/sbt-test/debug-session/aggregate/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_b1dfd70615fbad 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/attach/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_aaae8b68750236 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/debug-java/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_ebc939f98ce80a 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/hot-code-reload/project/plugins.sbt
+  s_70a899a4cfb5b4::t_187a33f3d0f2b9 16-19
+modules/sbt-plugin/src/sbt-test/debug-session/hot-code-reload/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_f3d772a9c99a7e 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/integration-test-suite/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_b2b9b3a6027947 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/main-class-scala3/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_8748d7f9f34376 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/main-class/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_fd0d3f32741c4c 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/native-lib/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_d08a0144fea805 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/no-expression-compiler/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_f0e24a50ae5cc1 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/scala-collection-compat/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_d0a30f05dfc013 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/step-into-jdk/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_5f9178bb37d162 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/stepfilter-config/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_726a75d3dd3d71 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/test-main-class/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_0603fe24810310 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/test-selection-suite/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_bb05f197413e8e 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/test-suite/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_87a50fe872b28c 4-7
+modules/sbt-plugin/src/sbt-test/debug-session/unmanaged-jars/project/plugins.sbt
+  s_70a899a4cfb5b4::t_3abc7f9b919002 17-20
+modules/sbt-plugin/src/sbt-test/debug-session/unmanaged-jars/project/project/plugins.sbt
+  s_70a899a4cfb5b4::t_c5c47976681576 4-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "72dae69c04492898dc40a08a45b89aadbde1e718",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_70a899a4cfb5b4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "13bdf2b4-fdba-4027-b76e-68279673b984",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
