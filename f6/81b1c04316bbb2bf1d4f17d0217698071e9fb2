@@ -1,0 +1,67 @@
+modules/sbt-plugin/src/sbt-test/debug-session/test-main-class/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/hot-code-reload/project/plugins.sbt
+  s_83b8dc0df14ea4::t_511146a84cd57b 13-18
+modules/sbt-plugin/src/sbt-test/debug-session/main-class/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_ee79c2414a0cfd 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/aggregate/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/stepfilter-config/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/test-suite/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/unmanaged-jars/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 14-19
+modules/sbt-plugin/src/sbt-test/debug-session/native-lib/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/no-expression-compiler/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/hot-code-reload/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+build.sbt
+  s_83b8dc0df14ea4::t_7fa1c51b30077e 173-175,179-180
+  s_83b8dc0df14ea4::t_6e0b53aa92a634 169-172,176-178,181-184
+  s_83b8dc0df14ea4::t_b4ef0be6be44b1 149
+modules/sbt-plugin/src/sbt-test/debug-session/main-class-scala3/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/test-selection-suite/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/unmanaged-jars/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/debug-java/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+.github/workflows/ci.yml
+  h_08749565cac8b5 79,94
+  s_83b8dc0df14ea4::t_c8b7de3af5f626 80,91,97-98,100
+  s_83b8dc0df14ea4::t_34993bba8d511a 95-96,99
+  s_83b8dc0df14ea4::t_6a3814f570a4aa 101
+modules/sbt-plugin/src/sbt-test/debug-session/integration-test-suite/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/scala-collection-compat/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/attach/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+modules/sbt-plugin/src/sbt-test/debug-session/step-into-jdk/project/project/plugins.sbt
+  s_83b8dc0df14ea4::t_499aff41bb7304 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f681b1c04316bbb2bf1d4f17d0217698071e9fb2",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
