@@ -1,0 +1,29 @@
+modules/sbt-plugin/src/sbt-test/debug-session/hot-code-reload/build.sbt
+  s_83b8dc0df14ea4::t_e3c6b99b9f9e41 2-3
+  s_83b8dc0df14ea4::t_bb7e2337b93d37 43,53,64
+  s_83b8dc0df14ea4::t_45c628ff4dc6c0 42,52,63
+modules/sbt-plugin/src/sbt-test/debug-session/debug-java/build.sbt
+  s_83b8dc0df14ea4::t_21da4a35b45d33 26,34-37,43
+modules/sbt-plugin/src/sbt-test/debug-session/no-expression-compiler/build.sbt
+  s_83b8dc0df14ea4::t_999efd4611ea5e 19
+  s_83b8dc0df14ea4::t_cafd4cca6a450d 6-13
+  s_83b8dc0df14ea4::t_d917dbd0ab180d 15
+modules/sbt-plugin/src/sbt-test/debug-session/integration-test-suite/build.sbt
+  s_83b8dc0df14ea4::t_ae2514e66eee64 7-10,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "50cd9e35826d1ad60141ea5a0eacd1c4e4a7107a",
+  "prompts": {},
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
