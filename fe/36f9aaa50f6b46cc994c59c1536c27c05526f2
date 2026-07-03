@@ -1,0 +1,19 @@
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/DebugAdapterPlugin.scala
+  s_83b8dc0df14ea4::t_0f373e1b2c6102 147-150,154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fe36f9aaa50f6b46cc994c59c1536c27c05526f2",
+  "prompts": {},
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
