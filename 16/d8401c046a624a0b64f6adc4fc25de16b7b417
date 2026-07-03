@@ -1,0 +1,40 @@
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/DebugAdapterPlugin.scala
+  s_83b8dc0df14ea4::t_ca1ac91aef07a6 117
+  s_83b8dc0df14ea4::t_40bddc0ff21a2c 6
+  s_83b8dc0df14ea4::t_e584adf74f16e0 360-361
+  s_83b8dc0df14ea4::t_a6f062ce20b7cd 18
+modules/sbt-plugin/src/main/scala-sbt1/ch/epfl/scala/debugadapter/sbtplugin/internal/JsonProtocolCompat.scala
+  s_83b8dc0df14ea4::t_275f624075f9ba 13
+  s_83b8dc0df14ea4::t_a18927ebd1f8de 9-12
+  s_83b8dc0df14ea4::t_f2d506995b82c6 1-3,5-8,14
+  s_83b8dc0df14ea4::t_6cab4438c22e82 4
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/internal/InternalTasks.scala
+  s_83b8dc0df14ea4::t_3cb20fc5b02244 5
+  s_83b8dc0df14ea4::t_b28a336a8fa55c 61,66
+project/Dependencies.scala
+  s_83b8dc0df14ea4::t_c4df3f542cc2aa 11-12
+modules/sbt-plugin/src/main/scala-sbt2/ch/epfl/scala/debugadapter/sbtplugin/internal/JsonProtocolCompat.scala
+  s_83b8dc0df14ea4::t_2aab7baa0ab8c6 8-10,12-16
+  s_83b8dc0df14ea4::t_b8b65fcab34833 1-7,11,17
+.github/workflows/ci.yml
+  s_83b8dc0df14ea4::t_5b9bc4ed8cf7d5 88
+build.sbt
+  s_83b8dc0df14ea4::t_63d4a686c0a1f3 149
+  s_83b8dc0df14ea4::t_d1cda732610909 41,69,129,136-148,150-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "16d8401c046a624a0b64f6adc4fc25de16b7b417",
+  "prompts": {},
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
