@@ -1,0 +1,30 @@
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/internal/InternalTasks.scala
+  s_83b8dc0df14ea4::t_1006565e55cef4 90,92-97,99-104
+  s_83b8dc0df14ea4::t_8c9e247e7797de 116
+  s_83b8dc0df14ea4::t_5832ecb7f7dfeb 12
+  s_83b8dc0df14ea4::t_52e40bc52aa8dd 63-66
+modules/core/src/main/scala/ch/epfl/scala/debugadapter/internal/SourceLookUpProvider.scala
+  s_83b8dc0df14ea4::t_e04e02e51ca3e2 3
+  s_83b8dc0df14ea4::t_47cadb1c290778 88
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/internal/SbtDebuggee.scala
+  s_83b8dc0df14ea4::t_19a051e530c919 23-26
+  s_83b8dc0df14ea4::t_e30b1728b6dd69 37,58,192
+modules/core/src/main/scala/ch/epfl/scala/debugadapter/internal/HotCodeReplaceProvider.scala
+  s_83b8dc0df14ea4::t_618e068ef55b9c 63-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bbf1463b1070560badae8d3f62e834f1ad36b8e6",
+  "prompts": {},
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
