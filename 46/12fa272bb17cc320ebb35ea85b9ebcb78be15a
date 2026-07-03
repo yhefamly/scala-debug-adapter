@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_83b8dc0df14ea4::t_576328a92e138d 38-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "4612fa272bb17cc320ebb35ea85b9ebcb78be15a",
+  "prompts": {},
+  "sessions": {
+    "s_83b8dc0df14ea4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dba147a-21f9-4c05-b071-c0709947dd67",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
