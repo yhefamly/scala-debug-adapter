@@ -1,0 +1,26 @@
+modules/sbt-plugin/src/main/scala/ch/epfl/scala/debugadapter/sbtplugin/DebugAdapterPlugin.scala
+  s_110b25c9b5d57b::t_0e700aa299c5a1 46-48
+  h_08749565cac8b5 44,49-52
+  s_110b25c9b5d57b::t_39d86d67f05769 5,28,38-39,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f0f09d7d621b461e3979ba814be19ad44d3ec6ea",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_110b25c9b5d57b": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1782987113187",
+        "model": "unknown"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
