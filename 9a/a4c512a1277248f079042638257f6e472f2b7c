@@ -1,0 +1,26 @@
+build.sbt
+  s_4d6446aaa77bd0::t_a208610cc0f67e 137,140,142-153,156-173,175-201
+  s_4d6446aaa77bd0::t_7ed9adb13e5589 138-139,141
+  s_4d6446aaa77bd0::t_a9dbc7ebb95431 11-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9aa4c512a1277248f079042638257f6e472f2b7c",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_4d6446aaa77bd0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "68fffc58-6b83-461f-b28b-f060b2918380",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
