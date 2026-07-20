@@ -1,0 +1,26 @@
+.github/workflows/release-full.yml
+  s_e7110aad8d6166::t_8137b29abe0b14 18
+build.sbt
+  s_e7110aad8d6166::t_d227eae164e0c4 293
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4aa109c68f45575564fabd118d4897f06f13cc01",
+  "prompts": {},
+  "humans": {
+    "h_08749565cac8b5": {
+      "author": "Yannick Heiber <yhe@famly.co>"
+    }
+  },
+  "sessions": {
+    "s_e7110aad8d6166": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1783781571433",
+        "model": "unknown"
+      },
+      "human_author": "Yannick Heiber <yhe@famly.co>"
+    }
+  }
+}
